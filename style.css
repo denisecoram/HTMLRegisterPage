@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(134, 95, 165);
+    margin-top: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.h2 {
+    text-align: left;
+    margin-left: 40px;
+}
+
+.input {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 80%
+}
+
+.navbutton {
+    background-color: rgb(49, 138, 129);
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+
+.navbar {
+    height: 20%;
+    width: 100%;
+    background-color: rgb(220, 230, 132);
+    text-align: right;
+}
+
+.signupform {
+    width: 300px;
+    height: 350px;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(45, 132, 172);
+}
+
+.Submit {
+    background-color: thistle;
+    margin: auto;
+    margin-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 150px;
+    text-align: center;
+}
+
+#email {
+    padding-right: 120px;
+}
+
+#username {
+    padding-right: 120px;
+}
+
+#Password {
+    padding-right: 120px;
+}
+
+#ConfirmPassword {
+    padding-right: 120px;
+}
+
+.images {
+    margin-left: 15px;
+}
